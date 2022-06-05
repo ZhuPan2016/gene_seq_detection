@@ -1,1 +1,6 @@
+__pycache__/*
 output/*
+test_file/*
+fuzhu.py
+*.zip
+*.xlsx
